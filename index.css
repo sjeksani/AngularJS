@@ -1,0 +1,89 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    /*width: 100%;*/
+    /*clear: both;*/
+    min-height: 100%;
+    margin: 0px;
+    padding: 0px;
+    /*position: absolute*/
+    ;
+}
+
+a:hover {
+    background-color: skyblue;
+    text-decoration: none;
+}
+
+a {
+    color: grey;
+}
+
+.mainlogo {
+    display: inline-flex;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+
+.container {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+#search {
+    float: right;
+}
+
+#tagline {
+    padding-top: 40px;
+    padding-left: -60px;
+}
+
+.slide {
+    padding-top: 30px;
+    width="1280px"
+}
+
+#advancedsearch {
+    height: 200px;
+    width: 1300px;
+    margin-top: 20px;
+    background-color: lightgrey;
+}
+
+#headtag {
+    padding-left: 50px;
+    font-size: 25px;
+}
+
+#searchbox {
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 950px;
+    height: 38px;
+}
+
+#button1 {
+    padding: 8px 30px;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+    background-color: #a0a9c1;
+}
+
+#as {
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.part {
+    float: left;
+    padding: 10px;
+}
+
+#sort {
+    display: inline-flex;
+    margin-left: 758px;
+    margin-bottom: 20px;
+}

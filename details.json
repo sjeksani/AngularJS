@@ -1,0 +1,43 @@
+{
+    "products": [{
+        "title": "Juniata College",
+        "date": "04/16/2017",
+        "image": "images/cap.jpg"
+    }, {
+        "title": "West Coast University",
+        "date": "01/28/2017",
+        "image": "images/capital.jpg"
+    }, {
+        "title": "Universidad de San Carlos de Guatemala",
+        "date": "04/06/2017",
+        "image": "images/corporate.jpg"
+    }, {
+        "title": "Florida University of Medicine",
+        "date": "01/12/2017",
+        "image": "images/GE.jpg"
+    }, {
+        "title": "Universidad Comunera",
+        "date": "02/05/2017",
+        "image": "images/GERE.jpg"
+    }, {
+        "title": "Pavol Jozef Safarik University in Kosice",
+        "date": "04/25/2017",
+        "image": "images/Global.jpg"
+    }, {
+        "title": "Tokyo National University of Fine Arts and Music",
+        "date": "02/22/2017",
+        "image": "images/healthcare.jpg"
+    }, {
+        "title": "North Carolina Central University",
+        "date": "03/20/2017",
+        "image": "images/wind.jpg"
+    }, {
+        "title": "Virginia Union University",
+        "date": "01/31/2017",
+        "image": "images/EFS.png"
+    }, {
+        "title": "Catholic University in Ružomberok",
+        "date": "04/13/2017",
+        "image": "images/GE.jpg"
+    }]
+}
