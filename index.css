@@ -27,7 +27,7 @@ a {
 
 .container {
     display: inline-flex;
-    justify-content: space-between;
+   /* justify-content: space-between; */
 }
 
 #search {
